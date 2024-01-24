@@ -11,9 +11,10 @@ img{display: block; width:100%;}
 #loading .loading_box.on{opacity: 1;}
 #layout_wrapper{width: 100vw; height: 100vh;}
 #layout_wrapper .main{position: relative; min-height: 60rem;width:1400px;overflow: hidden;margin: 0 auto;}
-#layout_wrapper .main .main_head{position: absolute; top: 78.5%; left: 47%; transform: translate(-50%, -50%); z-index: 22;width: 8%;}
+#layout_wrapper .main .main_head{position: absolute; top: 78.5%; left: 47%; transform: translate(-50%, -50%); z-index: 22;width: 9%;}
 #layout_wrapper .main .main_head .hand_rotation .img_gif{display: block;}
 #layout_wrapper .main .main_head .hand_rotation .img_png{display: none;}
+#layout_wrapper .main .main_head .hand_rotation a{display:inline-block;}
 #layout_wrapper .main .main_head .hand_rotation.on .img_gif{display: none;}
 #layout_wrapper .main .main_head .hand_rotation.on .img_png{display: block;}
 #layout_wrapper .main .main_bg{position: absolute; top: 50%; left: 50%; width:1400px; transform: translate(-50%, -50%);z-index: 20;}
