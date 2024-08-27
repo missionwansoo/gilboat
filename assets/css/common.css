@@ -30,8 +30,8 @@ img{display: block; width:100%;}
 #layout_wrapper .main .deco6{width: 9%;top: 50%;left: 60%;}
 #layout_wrapper .main .deco7{width: 4.5%;top: 56%;left: 65.5%;}
 #layout_wrapper .main .deco8{width: 11%;top: 77%;left: 82%;}
-#layout_wrapper .main .deco9{width: 17%;top: 23%;left: 13%;}
-#layout_wrapper .main .deco10{width: 25%;top: 20%;left: 86%;}
+#layout_wrapper .main .deco9{width: 17%;top: 23%;left: 13%;display:none;}
+#layout_wrapper .main .deco10{width: 25%;top: 20%;left: 86%;display:none;}
 
 @-moz-keyframes loadingbox1 {
     0% {transform: translate(-50%, -50%) rotate(0deg);border-radius: 0;}
